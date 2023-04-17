@@ -10,4 +10,8 @@ This Github is for showcasing all of the appropriate C# Scripts used to create m
 
 [AreaEntrance](AreaEntrance) follows suit, and is the position at which the Player begins once they enter the new scene.
 
+[UIFade](UIFade) is what allows the camera to fade to black when transitioning between different scenes after the Area has been transitioned.
 
+[DialogueManager](DialogueManager) is responsible for setting up and managing all of the appropriate dialogue based situations in the area.
+
+[DialogueStarter](DialogueStarter) is responsible for starting dialogue interactions with any NPC or object when a certain button is pressed by the Player.
